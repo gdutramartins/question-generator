@@ -1,0 +1,17 @@
+semantic-search/dataset/S08-S10-English-Study/
+semantic-search/question_generator/runs/
+semantic-search/question_generator/__pycache__/
+*.zip
+*.ipynb_checkpoints/
+*.lock
+*settings.json
+semantic-search/question_generation-master/
+semantic-search/dataset/
+semantic-search/question_generator/model/
+transformers/in_domain_train.tsv
+transformers/kant.txt
+transformers/KantaiBERT_2.ipynb
+transformers/out_of_domain_dev.tsv
+semantic-search/wiki_movie_plots_deduped.csv
+semantic-search/question_generator/data/train_data_e2e_qg_t5.pt
+semantic-search/question_generator/data/valid_data_e2e_qg_t5.pt
